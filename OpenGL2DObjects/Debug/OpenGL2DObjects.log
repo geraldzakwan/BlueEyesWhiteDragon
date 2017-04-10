@@ -1,0 +1,10 @@
+﻿  stb_image.c
+c:\users\asus\documents\visual studio 2015\projects\opengl2dobjects\opengl2dobjects\stb_image.c(288): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\asus\documents\visual studio 2015\projects\opengl2dobjects\opengl2dobjects\stb_image.c(350): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\asus\documents\visual studio 2015\projects\opengl2dobjects\opengl2dobjects\stb_image.c(388): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\asus\documents\visual studio 2015\projects\opengl2dobjects\opengl2dobjects\stb_image.c(4342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  OpenGL2DObjects.vcxproj -> C:\Users\ASUS\Documents\Visual Studio 2015\Projects\OpenGL2DObjects\Debug\OpenGL2DObjects.exe
