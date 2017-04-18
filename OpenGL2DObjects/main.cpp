@@ -666,15 +666,16 @@ int shapeChoices() {
 	cout << "8. Jajar genjang" << endl;
 	cout << "9. Poligon (segi berapapun)" << endl;
 	cout << "10. Lingkaran" << endl;
+	cout << "11. Naga" << endl;
 	
 	int a;
 	do {
 		cout << "Pilihan angka: ";
 		cin >> a;
-		if ((a < 1) || (a > 10)) {
+		if ((a < 1) || (a > 11)) {
 			cout << "Input salah, input angka antara 1 dan 10" << endl;
 		}
-	} while ((a < 1) || (a > 10));
+	} while ((a < 1) || (a > 11));
 
 	return a;
 }
